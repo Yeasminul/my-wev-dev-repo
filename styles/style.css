@@ -145,3 +145,43 @@ color:#252432;
     color: rgb(0, 0, 0, 0.5);
 }
 
+/* section-3 */
+.third-section{
+     margin-top: 115px;
+}
+.heading2{
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+
+}
+.card-design{
+    display: flex;
+    gap: 20px;
+}
+
+
+.card{
+    height: 243px;
+    width: 367px;
+    padding: 24px;
+    box-shadow: 3px 3px 3px rgb(95, 94, 94);
+    border-radius: 14px;
+    background-color:rgba(233, 232, 232, 0.5);
+}
+.icon-img{
+    display: flex;
+}
+.img-container{
+    display: flex;
+    gap: 20px;
+}
+
+.date-section{
+    line-height: 5px;
+    color:rgb(0, 0, 0, 0.5);
+}
+.picture{
+    border-radius: 50%;
+}
+
