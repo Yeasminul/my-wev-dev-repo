@@ -240,5 +240,38 @@ color:#252432;
 
 }
 
+/* footer-section */
+footer{
+    height: 430px;
+    width: 1440px;
+    background-color: #FFFFFF;
+}
+
+.last-logo{
+    text-align: center;
+    color:#4E47FF;
+    font-size: 100px;
+}
+.footer-para{
+    height: 48px;
+    width: 530px;
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(0, 0, 0, 0.5);
+}
+.div-item a{
+ 
+  text-decoration: none;
+  color: rgb(0, 0, 0, 0.5);
+}
+.footer-div{
+     height: 48px;
+    width: 530px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 
 
